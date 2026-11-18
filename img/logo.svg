@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <circle cx="60" cy="60" r="56" fill="#7b1e3a" stroke="#d4a94f" stroke-width="4"/>
+  <path d="M60 68 C28 46 36 18 54 18 C58 18 60 22 60 25 C60 22 62 18 66 18 C84 18 92 46 60 68 Z" fill="#f3e6ea"/>
+  <text x="60" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="bold" fill="#d4a94f">DIF</text>
+</svg>
